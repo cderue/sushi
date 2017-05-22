@@ -1,5 +1,4 @@
-/// <reference path="../ts/typings/jquery.d.ts" />
-/// <reference path="../ts/typings/kendo.all.d.ts" />
+
 var items = new kendo.data.DataSource({
     schema: 
     { 
